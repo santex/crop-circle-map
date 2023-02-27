@@ -1,2 +1,1 @@
-# crop-circle-map
-leaflet circle locations 
+https://santex.github.io/crop-circle-map/index.html
